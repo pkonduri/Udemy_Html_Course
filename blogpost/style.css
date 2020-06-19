@@ -1,0 +1,30 @@
+/* all elements are selected*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Helvetica Neue, Arial;
+    font-size: 18px;
+}
+
+h1, h2 {
+    color: rgba(18, 109, 10, 0.86);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.main-text {
+    text-align: justify;
+}
+
+.author-text {
+    font-size: 22px;
+}
